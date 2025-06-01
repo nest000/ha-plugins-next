@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
 export TMP_URL=~/tmp/ha-plugins-next
-export REPO_URL=https://github.com/arnonym/ha-plugins
-export NEXT_REPO_URL=https://github.com/arnonym/ha-plugins-next
-export NEXT_REPO_SSH=git@github.com:arnonym/ha-plugins-next.git
+export REPO_URL=https://github.com/nest000/ha-plugins
+export NEXT_REPO_URL=https://github.com/nest000/ha-plugins-next
+export NEXT_REPO_SSH=git@github.com:nest000/ha-plugins-next.git
 
 if [ -z "$DOCKER_HUB_PASSWORD" ]
   then
