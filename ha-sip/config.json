@@ -2,7 +2,7 @@
     "name": "ha-sip-next",
     "version": "4.0",
     "slug": "ha-sip-next",
-    "url": "https://github.com/arnonym/ha-plugins-next",
+    "url": "https://github.com/nest000/ha-plugins-next",
     "description": "Home-Assistant SIP Gateway (next version)",
     "arch": [
         "aarch64",
